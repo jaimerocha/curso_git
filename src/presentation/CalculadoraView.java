@@ -11,6 +11,7 @@ public class CalculadoraView {
 		System.out.println(calc.multiplicar(5, 7));
 		System.out.println(calc.restar(3, 7));
 		System.out.println(calc.dividir(8, 3));
+		System.out.println(calc.sumatorio(new int[] {7, 9, 2, 11}));
 	}
 
 }
